@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">UPB</string>
-    <string name="saludo">UPB 2022!</string>
+    <string name="saludo">UPB 2022 version git!</string>
 </resources>
